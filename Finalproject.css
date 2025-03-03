@@ -1,0 +1,46 @@
+body   {
+    background-color: lightblue;
+}
+
+.supercoolclass {
+    color: cornflowerblue;
+    margin:0% ;
+    text-align: center;
+    border: 5px solid cornflowerblue;
+    border-radius: 10px;
+    padding: 25px;
+    margin: 4px 10px;
+    font-family: monospace;
+
+}
+.class2 {
+    color: cornflowerblue;
+    text-align: center;
+    font-family: monospace;
+}
+
+#mainlinks {
+    color: cornflowerblue;
+}
+#mainlinks:hover {
+color: crimson;
+}
+
+#mainlinks1:hover {
+    color: crimson;
+}
+#mainlinks1 {
+color: cornflowerblue;
+}
+
+#mainlinks2:hover {
+color: crimson;
+}
+
+#mainlinks2 { 
+color: cornflowerblue;
+}
+ 
+
+
+

@@ -1,0 +1,19 @@
+body {
+background-color: whitesmoke;
+}
+
+.Classone {
+color: navy;
+margin: 0%;
+text-align: center;
+border: 5px solid crimson;
+padding: 25px;
+margin: 4px 10px;
+font-family: monospace;
+}
+
+.classtwo {
+    color: navy;
+    font-family: monospace;
+}
+

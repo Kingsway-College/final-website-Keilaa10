@@ -1,0 +1,18 @@
+body {
+    background-color: skyblue;
+}
+
+.class3 {
+    color: whitesmoke;
+    margin: 0%;
+    text-align: center;
+    border: 5px solid whitesmoke;
+    padding: 25px;
+    margin: 4px 10px;
+    font-family: monospace;
+}
+
+.class4 {
+    color: whitesmoke;
+    font-family: monospace;
+}

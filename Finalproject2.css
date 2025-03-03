@@ -1,0 +1,18 @@
+body {
+    background-color: whitesmoke;
+}
+
+.class1 {
+    color: darkblue;
+    margin: 0%;
+    text-align: center;
+    border: 5px solid darkblue;
+    padding: 25px;
+    margin: 4px 10px;
+    font-family: monospace;
+}
+
+.class2 {
+    color: darkblue;
+    font-family: monospace;
+}
